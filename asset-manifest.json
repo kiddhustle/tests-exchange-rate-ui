@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tests-exchange-rate-ui/static/css/main.2cce8147.chunk.css",
+    "main.js": "/tests-exchange-rate-ui/static/js/main.91aec136.chunk.js",
+    "main.js.map": "/tests-exchange-rate-ui/static/js/main.91aec136.chunk.js.map",
+    "runtime~main.js": "/tests-exchange-rate-ui/static/js/runtime~main.3d902da4.js",
+    "runtime~main.js.map": "/tests-exchange-rate-ui/static/js/runtime~main.3d902da4.js.map",
+    "static/js/2.1fe621d3.chunk.js": "/tests-exchange-rate-ui/static/js/2.1fe621d3.chunk.js",
+    "static/js/2.1fe621d3.chunk.js.map": "/tests-exchange-rate-ui/static/js/2.1fe621d3.chunk.js.map",
+    "index.html": "/tests-exchange-rate-ui/index.html",
+    "precache-manifest.875a7362513e0e1a90af6694b8111ec3.js": "/tests-exchange-rate-ui/precache-manifest.875a7362513e0e1a90af6694b8111ec3.js",
+    "service-worker.js": "/tests-exchange-rate-ui/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/tests-exchange-rate-ui/static/css/main.2cce8147.chunk.css.map"
+  }
+}
